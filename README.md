@@ -3,7 +3,7 @@
 
 **AtharvaMusale/AtharvaMusale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### 👩🏻‍🎓 About Me:
-<img src="https://github.com/akarshijain/akarshijain/blob/main/bitmoji.png" align="right" alt="Bitmoji Image" width="130" height="200">
+
 
 - 🎓 Master's Student in Computer Science at SUNY Buffalo, specializing in Artificial Intelligence.
 - 🚀 Highly skilled in Machine Learning, ,Software Development, Data Engineering.
