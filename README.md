@@ -12,8 +12,3 @@
 - 📫 Reach out: [atharva.musale@gmail.com](mailto:atharva.musale@gmail.com) | [LinkedIn](https://www.linkedin.com/in/atharva-musale/))
 
 
-### 📚 My College Journey:
-- **Learning**: Proficient in Deep Learning, Machine Learning, and Computer Vision.
-- **Projects**: Developed projects like an AI Air Hockey Game, Brain Tumor Detection using CNN, and more.
-Here are some ideas to get you started:
-
