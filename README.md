@@ -33,4 +33,4 @@ I design multi-agent workflows and cloud-native ML pipelines, using LLM reasonin
 
 ## Let's talk
 
-Open to conversations about agentic AI, ML platforms and production GenAI systems. The best way to reach me is [email](mailto:atharva.musale@gmail.com) or [LinkedIn](https://www.linkedin.com/in/atharva-musale/).
+Open to conversations about agentic AI, ML platforms and production GenAI systems. The best way to reach me is [Email](mailto:atharva.musale@gmail.com) or [LinkedIn](https://www.linkedin.com/in/atharva-musale/).
