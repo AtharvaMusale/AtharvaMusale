@@ -1,36 +1,45 @@
-# Hi, I'm Atharva 👋
+# Atharva Musale
 
-**Senior ML Engineer at Quantiphi · I build agentic AI systems that ship to production.**
+Senior Machine Learning Engineer at Quantiphi, specializing in agentic AI systems, generative AI and machine learning platforms on Google Cloud. I hold an M.S. in Computer Science and Engineering from the University at Buffalo.
 
-I design multi-agent workflows and cloud-native ML pipelines, using LLM reasoning where judgment is needed and deterministic code where it isn't. Right now I'm building agentic underwriting, document AI and model-serving platforms on Google Cloud.
+[Portfolio](https://atharvamusale.github.io/) | [LinkedIn](https://www.linkedin.com/in/atharva-musale/) | [Medium](https://medium.com/@atharvamusale) | [Email](mailto:atharva.musale@gmail.com)
 
-[Portfolio](https://atharvamusale.github.io/) · [LinkedIn](https://www.linkedin.com/in/atharva-musale/) · [Medium](https://medium.com/@atharvamusale) · [Email](mailto:atharva.musale@gmail.com)
+## Experience
 
----
+- **Senior Machine Learning Engineer, Quantiphi Inc.** (Nov 2025 - Present)
+- **Machine Learning Engineer, Grid Dynamics Holdings, Inc.** (Mar 2025 - Nov 2025)
+- **Machine Learning Engineer, Quantiphi Analytic Solutions Pvt Ltd** (Apr 2021 - Apr 2023)
 
-## Open-source projects
+Detailed case studies are available on my [portfolio](https://atharvamusale.github.io/).
 
-- **[finsight](https://github.com/AtharvaMusale/finsight)**: Agentic RAG over SEC 10-K/10-Q filings. Every claim is cited, every number comes from a database or calculator, and a verifier checks the answer before it is shown.
-- **[ai-market-intelligence](https://github.com/AtharvaMusale/ai-market-intelligence)**: A daily market briefing and Q&A system combining prices, macro data, news and SEC filings, with an evaluation harness that checks each claim.
-- **[Vehicle Detection and Tracking](https://github.com/AtharvaMusale/Vehicle-Detection-and-Tracking-using-YOLOv3-and-Deep-Sort)**: YOLOv3 + DeepSORT with lane masking for per-lane vehicle counts.
+## Areas of Expertise
 
-## Tech stack
+- Agentic AI: multi-agent systems, agent-to-agent communication, human-in-the-loop workflows, retrieval-augmented generation (RAG)
+- Document AI and event-driven data processing pipelines
+- Computer vision: object detection, image segmentation and tracking
+- MLOps: model deployment, CI/CD, monitoring and observability
 
-**Agentic & GenAI:** Google ADK · LangGraph · LangChain · LangSmith · A2A · MCP · RAG · Gemini · LLM fine-tuning
+## Technical Skills
 
-**Cloud & MLOps:** Vertex AI · Document AI · Cloud Run · Pub/Sub · Firestore · Docker · Kubernetes · AWS · Azure · CI/CD
+| Category | Technologies |
+|---|---|
+| Agentic AI and GenAI | Google ADK, LangGraph, LangChain, LangSmith, A2A, MCP, RAG, Gemini, LLM fine-tuning |
+| Cloud and MLOps | Vertex AI, Document AI, Cloud Run, Pub/Sub, Firestore, Docker, Kubernetes, AWS, Azure, CI/CD |
+| Machine Learning and Deep Learning | PyTorch, TensorFlow, Keras, Transformers, CNNs, GANs, Object Detection, Segmentation |
+| Languages and Frameworks | Python, C++, Java, FastAPI, Flask, Streamlit |
+| Data Systems | SQL, PostgreSQL, Apache Spark, Milvus |
 
-**ML & Deep Learning:** PyTorch · TensorFlow · Keras · Transformers · CNNs · GANs · Object detection · Segmentation
+## Featured Projects
 
-**Engineering:** Python · C++ · Java · FastAPI · Flask · Streamlit · SQL · PostgreSQL · Spark · Milvus
+- [**finsight**](https://github.com/AtharvaMusale/finsight): Agentic RAG system over SEC 10-K and 10-Q filings. Claims are cited to source documents, numerical values are retrieved from a database or calculator, and a verifier checks each answer before it is returned.
+- [**ai-market-intelligence**](https://github.com/AtharvaMusale/ai-market-intelligence): Daily market briefing and question-answering system combining prices, macroeconomic data, news headlines and SEC filings.
+- [**Vehicle Detection and Tracking**](https://github.com/AtharvaMusale/Vehicle-Detection-and-Tracking-using-YOLOv3-and-Deep-Sort): Vehicle detection with YOLOv3 and tracking with DeepSORT, including per-lane vehicle counting.
 
-## Background
+## Education
 
-- Senior ML Engineer, **Quantiphi** (Nov 2025 – present)
-- ML Engineer, **Grid Dynamics** (Mar 2025 – Nov 2025)
-- ML Engineer, **Quantiphi** (Apr 2021 – Apr 2023)
-- M.S. Computer Science & Engineering, **University at Buffalo** (2023 – 2024)
+- **M.S. in Computer Science and Engineering**, University at Buffalo (2023 - 2024)
+- **B.E. in Electronics and Telecommunication**, University of Mumbai (2016 - 2020)
 
-## Let's talk
+## Contact
 
-Open to conversations about agentic AI, ML platforms and production GenAI systems. The best way to reach me is [Email](mailto:atharva.musale@gmail.com) or [LinkedIn](https://www.linkedin.com/in/atharva-musale/).
+For professional inquiries, please reach out via [email](mailto:atharva.musale@gmail.com) or [LinkedIn](https://www.linkedin.com/in/atharva-musale/).
